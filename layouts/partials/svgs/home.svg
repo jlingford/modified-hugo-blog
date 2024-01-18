@@ -1,7 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="{{ .width }}" height="{{ .height }}" 
-viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" 
-stroke-linejoin="round" class="feather feather-home">
-<title>{{ T "home.home" }}</title>
-<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
-<polyline points="9 22 9 12 15 12 15 22"></polyline>
+<!-- <?xml version="1.0" encoding="UTF-8" standalone="no"?> -->
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="42.103127mm"
+   height="7.5009918mm"
+   viewBox="0 0 42.103127 7.5009918"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="130.2227"
+       y="347.69461"
+       width="321.65005"
+       height="149.7561"
+       id="rect236" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-34.50673,-93.230207)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.21597711,0,0,0.21597711,6.7979055,18.573423)"
+       id="text234"
+       style="font-style:italic;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic';white-space:pre;shape-inside:url(#rect236);fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.55717;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
+         x="130.22266"
+         y="371.78024"
+         id="tspan2"><tspan
+           style="font-weight:bold;font-stretch:condensed;-inkscape-font-specification:'Arial Bold Italic Condensed';fill:#7c7c7c"
+           id="tspan1">JamesLingford</tspan></tspan></text>
+  </g>
 </svg>
