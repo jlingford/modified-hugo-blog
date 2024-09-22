@@ -5,8 +5,8 @@
     </header>
     <main class="page-content" aria-label="Content">
         {{ range .Pages.GroupByDate "2006" }}
-        {{ $year := .Key }}
-        <h2 class="post-year">{{ $year }}</h2>
+        {{ $category := .Key }}
+        <h2 class="post-category">{{ $category }}</h2>
 
         {{/* create a list of posts for each month, with month as heading */}}
 
